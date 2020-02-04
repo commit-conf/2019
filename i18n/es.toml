@@ -57,7 +57,7 @@ other = 'Las fotos'
 [ViewEventPhotos]
 other = 'Ve las fotos de esta edición'
 [NewDatesAnnouncement]
-other = 'Pronto anunciaremos las fechas de Commit 2020.'
+other = 'Commit 2020 se celebrará los días 27 y 28 de noviembre. ¡Apúntalo en la agenda!'
 
 # Closing
 [ClosingTitle]
